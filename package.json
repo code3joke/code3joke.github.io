@@ -9,7 +9,7 @@
   "jsdelivr": "dist/posenet.min.js",
   "types": "dist/index.d.ts",
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "https://github.com/tensorflow/tfjs-models.git"
   },
   "peerDependencies": {
